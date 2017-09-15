@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: Web安全修仙
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "NLCYun' Blog"  
 baseurl: ""
-url: "http://cnfeat"  
+url: ""  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: "NLCYun"
+  email: wsxjili@126.com
+  bio: "FirstBlood."
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: 
+github_username: wsxjili
 facebook_username: 
 weibo_username: 
-zhihu_username: 
+zhihu_username: NLCyun
 
 # Build settings  
 # use Github Flavored Markdown !important  
